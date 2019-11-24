@@ -1,0 +1,2 @@
+# EXCEL_KAITAI_SHINSHO
+VBAを全く使用しない、XML解析のみの実践的なXLSXファイルの解析手法
